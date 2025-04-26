@@ -1,6 +1,6 @@
 # Trabalho de Análise - Fazenda Urbana
 
-## Parte do codigo do projeto [aqui](https://github.com/AlexandreDSantos01/Pim-4)
+## Codigo do projeto [aqui](https://github.com/AlexandreDSantos01/Pim-4)
 
 Este repositório contém o trabalho realizado para o curso de **Análise e Desenvolvimento de Sistemas (ADS)**, onde foi realizada a análise e modelagem de um sistema para **uma fazenda urbana**. O objetivo deste projeto foi mapear e criar um modelo de software para gerenciar as operações de uma fazenda urbana, utilizando boas práticas de análise de sistemas, como diagramas, definição de regras de negócios e a normalização do banco de dados até a sexta forma normal.
 
