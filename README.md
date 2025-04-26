@@ -65,7 +65,7 @@ O sistema foi desenvolvido utilizando as seguintes tecnologias:
 - **Linguagem de Programação**: O sistema foi desenvolvido em **C#** utilizando o framework **ASP.NET Core MVC**.
 - **Banco de Dados**: Utilizamos **SQL Server** para o armazenamento de dados, aplicando a normalização do banco de dados até a **sexta forma normal (6NF)** para garantir a eficiência e consistência dos dados.
 - **API**: Foi desenvolvida uma **API RESTful** para a integração com a versão mobile do sistema, utilizando **ASP.NET Core Web API**.
-- **Ferramentas de Modelagem**: Utilizamos ferramentas como **Lucidchart** e **Draw.io** para criar os diagramas.
+- **Ferramentas de Modelagem**: Utilizamos ferramentas como **Astah** para criar os diagramas.
 
 ## Tipos de Plataforma
 
