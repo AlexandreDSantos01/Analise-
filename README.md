@@ -2,6 +2,10 @@
 
 Este repositório contém o trabalho realizado para o curso de **Análise e Desenvolvimento de Sistemas (ADS)**, onde foi realizada a análise e modelagem de um sistema para **uma fazenda urbana**. O objetivo deste projeto foi mapear e criar um modelo de software para gerenciar as operações de uma fazenda urbana, utilizando boas práticas de análise de sistemas, como diagramas, definição de regras de negócios e a normalização do banco de dados até a sexta forma normal.
 
+### Metodologia Scrum
+
+Durante o desenvolvimento deste projeto, utilizamos a metodologia **Scrum** para gerenciar as atividades e a evolução do trabalho. O Scrum foi adotado para organizar o trabalho em ciclos curtos e entregáveis chamados **sprints**, com reuniões diárias para acompanhamento das atividades e gestão do progresso. Essa abordagem ajudou a manter o foco nas entregas e facilitar a comunicação dentro da equipe.
+
 ## Objetivo do Projeto
 
 O objetivo deste trabalho foi estudar e estruturar as necessidades de um sistema para uma fazenda urbana. A fazenda urbana tem como propósito o cultivo sustentável de alimentos em áreas urbanas, aproveitando espaços como telhados, paredes e terrenos abandonados. O sistema que foi analisado irá permitir o gerenciamento das atividades agrícolas, controle de produção, relacionamento com fornecedores e clientes, além da gestão de recursos como insumos e equipamentos.
